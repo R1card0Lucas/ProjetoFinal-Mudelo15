@@ -1,1 +1,10 @@
-Isto database sobre uma clinica_veterinaria
+Tema escolhido foi clinica_veterinaria
+
+Tarefas realizadas
+DER
+Normalizacao
+criar_tabelas
+inserir_dados
+consultas
+prints
+Revisei trabalho 
